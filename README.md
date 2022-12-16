@@ -1,16 +1,32 @@
-# flutterweather
+# Flutter Weather
 
-A new Flutter project.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90050699/208076174-2adf2851-30dc-41a6-a17e-f3ce6b25dd2d.png" alt="Flutter Weather Icon" width="50%" />
+</p>
 
-## Getting Started
+**PLATFORM** | ANDROID IOS
 
-This project is a starting point for a Flutter application.
+### 🌦 Display the current weather and forecast for the next few hours using the [weatherapi.com](https://www.weatherapi.com)
+### 💾 Use [hive](https://pub.dev/packages/hive) for data storage
+### 🔍 Search your country, city or region
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/90050699/207809618-55f9f334-d9ce-4a0a-9d13-02008a743bc2.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://user-images.githubusercontent.com/90050699/207809652-40ab8275-6d25-4ce2-8de7-2814e365559c.jpg" width="45%">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Used packages
+```
+http: ^0.13.5
+```
+```
+intl: ^0.17.0
+```
+```
+hive: ^2.2.3
+```
+```
+hive_flutter: ^1.1.0
+```
